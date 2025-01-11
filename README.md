@@ -15,6 +15,9 @@ A chat application featuring secure Single Sign-On (SSO) with Google OAuth, a st
 - **Google OAuth**
 - **Tailwind CSS** for styling
 
+## Live Demo
+Try the app here: [Live Demo](https://my-react-chat-app-4b7b9.web.app/)
+
 ## Installation
 
 1. Clone the repository
